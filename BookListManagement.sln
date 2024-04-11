@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34723.18
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookListManagement.Server", "BookListManagement.Server\BookListManagement.Server.csproj", "{8C863E6B-97F0-413A-9A1C-3E6AC0ADB13B}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "booklistmanagement.client", "booklistmanagement.client\booklistmanagement.client.esproj", "{E11319C5-2E49-4FCE-9409-41574A5FFEDB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C863E6B-97F0-413A-9A1C-3E6AC0ADB13B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C863E6B-97F0-413A-9A1C-3E6AC0ADB13B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C863E6B-97F0-413A-9A1C-3E6AC0ADB13B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C863E6B-97F0-413A-9A1C-3E6AC0ADB13B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E11319C5-2E49-4FCE-9409-41574A5FFEDB}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D03ACAB1-6258-43DA-B3F9-30EC228632B7}
+	EndGlobalSection
+EndGlobal
